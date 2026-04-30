@@ -1,1 +1,18 @@
-
+[
+  {
+    "datetime": "2026-04-30 08:28:38",
+    "amount": 1235.0,
+    "from_currency": "USD",
+    "to_currency": "EUR",
+    "result": 1057.16,
+    "rate": 0.856
+  },
+  {
+    "datetime": "2026-04-30 08:28:48",
+    "amount": 3210.0,
+    "from_currency": "ZMW",
+    "to_currency": "EUR",
+    "result": 144.45,
+    "rate": 0.045
+  }
+]
